@@ -26,6 +26,6 @@
 ---
 
 ## 📫 Contact
-- Email: 0201EC231091@gmail.com  
-- LinkedIn: (add your LinkedIn URL here)
+- Email: kushwahshekhar.singh44@gmail.com  
+- LinkedIn: www.linkedin.com/in/shekhar-singh-a695a7289
 
