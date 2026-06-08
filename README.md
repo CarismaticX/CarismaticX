@@ -118,12 +118,12 @@ Driven by curiosity, fueled by late-night compilers, and always chasing the "why
 <samp><b>◈ currently leveling up</b></samp>
 <br><br>
 
-```
-◈ Data Structures & Algorithms  ████████░░  80%
-◈ System Design Basics          █████░░░░░  50%
-◈ Backend Architecture          ███████░░░  70%
-◈ Interview Prep                ██████░░░░  60%
-```
+<samp>
+◈ Data Structures & Algorithms &nbsp; ████████░░ &nbsp; 80%<br>
+◈ System Design Basics &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; █████░░░░░ &nbsp; 50%<br>
+◈ Backend Architecture &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ███████░░░ &nbsp; 70%<br>
+◈ Interview Prep &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ██████░░░░ &nbsp; 60%<br>
+</samp>
 
 </td>
 </tr>
